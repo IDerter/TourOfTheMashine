@@ -390,6 +390,11 @@
 "Assets/StandaloneFileBrowser/StandaloneFileBrowserLinux.cs"
 "Assets/StandaloneFileBrowser/StandaloneFileBrowserMac.cs"
 "Assets/StandaloneFileBrowser/StandaloneFileBrowserWindows.cs"
+"Assets/Test/ObjectDetectionYOLOv4Example/CameraToWorldMapper.cs"
+"Assets/Test/ObjectDetectionYOLOv4Example/ObjectDetectionYOLOv4Example.cs"
+"Assets/Test/ObjectDetectionYOLOv4Example/YOLOv4ObjectDetector.cs"
+"Assets/Test/Scripts/CameraStream.cs"
+"Assets/Test/Scripts/CamShiftExample.cs"
 -langversion:9.0
 
 /deterministic

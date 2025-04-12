@@ -35,4 +35,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/OpenCVForUnity/Examples/MainModules/videoio/VideoWriterAsyncExample/VideoWriterAsyncExample.unity
     guid: e823dc143d7524a4fadd007ac23a4d58
+  - enabled: 1
+    path: Assets/OpenCVForUnity/Examples/MainModules/objdetect/FaceDetectorYNExample/FaceDetectorYNWebCamExample.unity
+    guid: c63adffd16329aa43a5203a5c4abfeb9
+  - enabled: 1
+    path: Assets/OpenCVForUnity/Examples/MainModules/objdetect/FaceRecognizerSFExample/FaceRecognizerSFExample.unity
+    guid: 10f08a42c52297d439f4f7d781fd70cc
   m_configObjects: {}
